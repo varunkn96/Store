@@ -1,0 +1,51 @@
+<products>
+    <product>
+        <id>1277</id>
+        <name>Apple</name>
+        <price>5</price>
+        <description>Best apple in the world</description>
+        <image_url>https://imgs.com/apple</image_url>
+    </product>
+    <product>
+        <id>1303</id>
+        <name>Banana</name>
+        <price>2</price>
+        <description>Best Banana in the world</description>
+        <image_url>https://imgs.com/Banana</image_url>
+    </product>
+    <product>
+        <id>1336</id>
+        <name>Camera</name>
+        <price>150</price>
+        <description>Best Camera in the world</description>
+        <image_url>https://imgs.com/Camera</image_url>
+    </product>
+    <product>
+        <id>1359</id>
+        <name>Drone</name>
+        <price>100</price>
+        <description>Best Drone in the world</description>
+        <image_url>https://imgs.com/Drone</image_url>
+    </product>
+    <product>
+        <id>1385</id>
+        <name>Small Eggs</name>
+        <price>3</price>
+        <description>Best Small Eggs in the world</description>
+        <image_url>https://imgs.com/SmallEggs</image_url>
+    </product>
+    <product>
+        <id>1408</id>
+        <name>Large Eggs</name>
+        <price>5</price>
+        <description>Best Large Eggs in the world</description>
+        <image_url>https://imgs.com/LaregEggs</image_url>
+    </product>
+    <product>
+        <id>1427</id>
+        <name>Brown Eggs</name>
+        <price>5</price>
+        <description>Best Brown Eggs in the world</description>
+        <image_url>https://imgs.com/BrownEggs</image_url>
+    </product>
+</products>
